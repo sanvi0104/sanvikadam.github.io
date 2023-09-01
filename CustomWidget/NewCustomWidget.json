@@ -32,7 +32,7 @@
             "description": "Clear the result set"
         }
     },
-    "event": {
+    "events": {
         "onClick": {
             "description": "Called when the user clicks the button"
         }
